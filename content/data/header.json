@@ -2,7 +2,7 @@
     "primaryLinks": [
         {
             "label": "Sobre Mí",
-            "altText": "Blog",
+            "altText": "About",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
