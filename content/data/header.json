@@ -83,7 +83,6 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/Diseño sin título.png",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
