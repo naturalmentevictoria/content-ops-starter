@@ -4,7 +4,12 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: >-
+        Descubre el poder de la naturaleza para equilibrar tu ciclo femenino. En
+        Naturalmente Victoria, te guío con fitoterapia y remedios naturales para
+        armonizar hormonas, aliviar malestares menstruales y potenciar tu
+        energía diaria, siempre como complemento a tu atención médica
+        tradicional.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
