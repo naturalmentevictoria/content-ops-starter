@@ -13,9 +13,11 @@ sections:
       armonizar hormonas, aliviar malestares menstruales y potenciar tu energía
       diaria, siempre como complemento a tu atención médica tradicional.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Naturalmente Victoria es tu espacio personal de bienestar natural que tú
+      controlas completamente. Cada cambio que realizas se refleja al instante
+      en el editor visual, y como cada edición se guarda automáticamente, tus
+      flujos de trabajo y colaboraciones simplemente funcionan sin
+      complicaciones.
     actions:
       - label: Get started
         altText: ''
