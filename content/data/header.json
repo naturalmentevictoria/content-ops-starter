@@ -1,27 +1,17 @@
 {
-    "logo": {
-        "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": ["mr-3"]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Sobre Mí",
+            "altText": "About",
+            "url": "/about",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Pricing",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -88,7 +78,18 @@
             "type": "Button"
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-left-primary-nav-right",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "logo": {
+        "type": "ImageBlock",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "borderRadius": "medium",
+                "borderWidth": 1
+            }
+        }
+    }
 }
