@@ -32,7 +32,8 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Diseño sin título.png
+      url: >-
+        /images/bottles-with-tincture-medicinal-herbs-hands-woman-selective-focus.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
