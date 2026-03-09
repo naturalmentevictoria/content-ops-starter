@@ -10,8 +10,8 @@
             "type": "Link"
         },
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Terapias",
+            "url": "/terapias",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
