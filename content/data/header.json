@@ -11,7 +11,7 @@
         },
         {
             "label": "Terapias",
-            "url": "/pricing",
+            "url": "/terapias",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
