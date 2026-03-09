@@ -42,7 +42,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Soluciones naturales para la salud femenina
       color: text-primary
       type: Badge
     elementId: ''
