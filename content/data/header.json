@@ -3,7 +3,7 @@
         {
             "label": "Sobre Mí",
             "altText": "About",
-            "url": "/blog",
+            "url": "/about",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
